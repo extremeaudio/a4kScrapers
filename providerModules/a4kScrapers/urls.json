@@ -42,18 +42,13 @@
       "extratorrent": {
           "search": "/search/?new=1&search=%s",
           "domains": [
-              { "base": "https://extratorrents.it" },
-              { "base": "https://extratorrent.si" }
+              { "base": "https://extratorrents.it/home" }
           ]
       },
       "eztv": {
           "search": "/search/%s",
           "domains": [
-              { "base": "https://eztv.re" },
-              { "base": "https://eztv.ag" },
-              { "base": "https://eztv.it" },
-              { "base": "https://eztv.ch" },
-              { "base": "https://eztv.unblocked.llc" }
+              { "base": "https://eztv.re" }
           ]
       },
       "glo": {
@@ -62,8 +57,7 @@
           "cat_episode": "41",
           "domains": [
               { "base": "https://glodls.to" },
-              { "base": "https://gtdb.to" },
-              { "base": "https://glotorrents.unblockit.link" }
+              { "base": "https://gtdb.to" }
           ]
       },
       "kickass": {
@@ -71,19 +65,9 @@
           "cat_movie": "movies",
           "cat_episode": "tv",
           "domains": [
-              { "base": "https://kickass.id" },
               { "base": "https://kickass.love" },
-              { "base": "https://kickass.name" },
-              { "base": "https://kickass.earth" },
-              { "base": "https://kickass.kim" },
-              { "base": "https://thekat.app" },
-              { "base": "https://kat.li" },
-              { "base": "https://thekat.info" },
-              { "base": "https://kickass.cm" },
-              { "base": "https://kat.how" },
-              { "base": "https://kickass.vc" },
-              { "base": "https://kickass2.biz" },
-              { "base": "https://kickass2.st" }
+              { "base": "https://kick4ss.net" },
+              { "base": "https://thekat.info" }
           ]
       },
       "leet": {
@@ -92,12 +76,7 @@
           "cat_episode": "TV",
           "domains": [
               { "base": "https://1337x.to" },
-              { "base": "https://1337x.unblocked.llc" },
-              { "base": "https://1337x.st" },
-              { "base": "https://x1337x.ws" },
-              { "base": "https://x1337x.eu" },
-              { "base": "https://x1337x.se" },
-              { "base": "https://1337x.is" }
+              { "base": "https://1337x.st" }
           ]
       },
       "lime": {
@@ -106,8 +85,7 @@
           "cat_episode": "tv",
           "domains": [
               { "base": "https://www.limetorrents.info" },
-              { "base": "https://www.limetorrents.asia" },
-              { "base": "https://www.limetorrents.zone" }
+              { "base": "https://www.limetorrents.asia" }
           ]
       },
       "magnetdl": {
@@ -129,7 +107,8 @@
           "cat_movie": "207,202,201",
           "cat_episode": "208,205",
           "domains": [
-              { "base": "https://apibay.org" }
+              { "base": "https://tpb.red" },
+              { "base": "https://pirateproxy.us" }
           ]
       },
       "showrss": {
@@ -141,8 +120,7 @@
       "skytorrents": {
           "search": "",
           "domains": [
-              { "base": "https://www.skytorrents.net/?search=%s" },
-              { "base": "https://sitenable.top/o.php?b=60&pv=4&mobile=&u=http%%3A%%2F%%2Fskytorrents.in%%2Fsearch%%3Fl%%3Den-us%%26q%%3D%s" }
+              { "base": "https://www.skytorrents.net/?search=%s" }
           ]
       },
       "solidtorrents": {
@@ -167,10 +145,8 @@
       "torrentgalaxy": {
           "search": "/torrents.php?&search=%s&nox=1&sort=seeders&order=desc",
           "domains": [
-              { "base": "https://torrentgalaxy.to" },
-              { "base": "https://torrentgalaxy.mx" },
-              { "base": "https://torrentgalaxy.su" }
-          ]
+              { "base": "https://torrentgalaxy.to" }
+        ]
       },
       "torrentparadise": {
           "search": "/api/search?q=%s",
@@ -202,10 +178,7 @@
           "cat_movie": "Movies",
           "cat_episode": "TV",
           "domains": [
-              { "base": "https://zooqle.com" },
-              { "base": "https://zooqle.unblocked.win" },
-              { "base": "https://zooqle.unblocked.llc" },
-              { "base": "https://zooqle.unblocked.krd" }
+              { "base": "https://zooqle.com" }
           ]
       }
   },
